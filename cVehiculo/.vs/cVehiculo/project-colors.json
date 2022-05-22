@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9fb92cd8-1b24-4502-ba81-84f9de9d0bcd": {
+      "ProjectGuid": "9fb92cd8-1b24-4502-ba81-84f9de9d0bcd",
+      "DisplayName": "cVehiculo",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

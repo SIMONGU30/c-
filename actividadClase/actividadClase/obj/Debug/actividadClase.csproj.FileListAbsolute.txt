@@ -1,0 +1,8 @@
+C:\Users\saimon\OneDrive\Documentos\C#\actividadClase\actividadClase\obj\Debug\actividadClase.csproj.AssemblyReference.cache
+C:\Users\saimon\OneDrive\Documentos\C#\actividadClase\actividadClase\obj\Debug\actividadClase.csproj.SuggestedBindingRedirects.cache
+C:\Users\saimon\OneDrive\Documentos\C#\actividadClase\actividadClase\obj\Debug\actividadClase.csproj.CoreCompileInputs.cache
+C:\Users\saimon\OneDrive\Documentos\C#\actividadClase\actividadClase\bin\Debug\actividadClase.exe.config
+C:\Users\saimon\OneDrive\Documentos\C#\actividadClase\actividadClase\bin\Debug\actividadClase.exe
+C:\Users\saimon\OneDrive\Documentos\C#\actividadClase\actividadClase\bin\Debug\actividadClase.pdb
+C:\Users\saimon\OneDrive\Documentos\C#\actividadClase\actividadClase\obj\Debug\actividadClase.exe
+C:\Users\saimon\OneDrive\Documentos\C#\actividadClase\actividadClase\obj\Debug\actividadClase.pdb

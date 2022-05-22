@@ -1,0 +1,8 @@
+C:\Users\saimon\OneDrive\Documentos\C#\TallerCasa\TallerCasa\bin\Debug\TallerCasa.exe.config
+C:\Users\saimon\OneDrive\Documentos\C#\TallerCasa\TallerCasa\bin\Debug\TallerCasa.exe
+C:\Users\saimon\OneDrive\Documentos\C#\TallerCasa\TallerCasa\bin\Debug\TallerCasa.pdb
+C:\Users\saimon\OneDrive\Documentos\C#\TallerCasa\TallerCasa\obj\Debug\TallerCasa.csproj.AssemblyReference.cache
+C:\Users\saimon\OneDrive\Documentos\C#\TallerCasa\TallerCasa\obj\Debug\TallerCasa.csproj.SuggestedBindingRedirects.cache
+C:\Users\saimon\OneDrive\Documentos\C#\TallerCasa\TallerCasa\obj\Debug\TallerCasa.csproj.CoreCompileInputs.cache
+C:\Users\saimon\OneDrive\Documentos\C#\TallerCasa\TallerCasa\obj\Debug\TallerCasa.exe
+C:\Users\saimon\OneDrive\Documentos\C#\TallerCasa\TallerCasa\obj\Debug\TallerCasa.pdb

@@ -1,0 +1,8 @@
+C:\Users\saimon\OneDrive\Documentos\C#\clsVehiculo\clsVehiculo\bin\Debug\clsVehiculo.exe.config
+C:\Users\saimon\OneDrive\Documentos\C#\clsVehiculo\clsVehiculo\bin\Debug\clsVehiculo.exe
+C:\Users\saimon\OneDrive\Documentos\C#\clsVehiculo\clsVehiculo\bin\Debug\clsVehiculo.pdb
+C:\Users\saimon\OneDrive\Documentos\C#\clsVehiculo\clsVehiculo\obj\Debug\clsVehiculo.csproj.AssemblyReference.cache
+C:\Users\saimon\OneDrive\Documentos\C#\clsVehiculo\clsVehiculo\obj\Debug\clsVehiculo.csproj.SuggestedBindingRedirects.cache
+C:\Users\saimon\OneDrive\Documentos\C#\clsVehiculo\clsVehiculo\obj\Debug\clsVehiculo.csproj.CoreCompileInputs.cache
+C:\Users\saimon\OneDrive\Documentos\C#\clsVehiculo\clsVehiculo\obj\Debug\clsVehiculo.exe
+C:\Users\saimon\OneDrive\Documentos\C#\clsVehiculo\clsVehiculo\obj\Debug\clsVehiculo.pdb

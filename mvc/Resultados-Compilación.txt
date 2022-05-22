@@ -1,0 +1,4 @@
+﻿Operación Compilar iniciada..
+1>------ Operación Compilar iniciada: proyecto: mvcfr, configuración: Debug Any CPU ------
+1>  mvcfr -> C:\Users\saimon\OneDrive\Documentos\C#\mvcfr\mvcfr\bin\mvcfr.dll
+========== Compilar: 1 correctos, 0 incorrectos, 0 actualizados, 0 omitidos ==========

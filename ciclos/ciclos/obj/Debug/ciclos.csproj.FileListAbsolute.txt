@@ -1,0 +1,8 @@
+C:\Users\saimon\OneDrive\Documentos\C#\ciclos\ciclos\bin\Debug\ciclos.exe.config
+C:\Users\saimon\OneDrive\Documentos\C#\ciclos\ciclos\bin\Debug\ciclos.exe
+C:\Users\saimon\OneDrive\Documentos\C#\ciclos\ciclos\bin\Debug\ciclos.pdb
+C:\Users\saimon\OneDrive\Documentos\C#\ciclos\ciclos\obj\Debug\ciclos.csproj.AssemblyReference.cache
+C:\Users\saimon\OneDrive\Documentos\C#\ciclos\ciclos\obj\Debug\ciclos.csproj.SuggestedBindingRedirects.cache
+C:\Users\saimon\OneDrive\Documentos\C#\ciclos\ciclos\obj\Debug\ciclos.csproj.CoreCompileInputs.cache
+C:\Users\saimon\OneDrive\Documentos\C#\ciclos\ciclos\obj\Debug\ciclos.exe
+C:\Users\saimon\OneDrive\Documentos\C#\ciclos\ciclos\obj\Debug\ciclos.pdb

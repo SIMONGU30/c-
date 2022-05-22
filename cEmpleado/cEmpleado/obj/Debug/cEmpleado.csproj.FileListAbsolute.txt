@@ -1,0 +1,8 @@
+C:\Users\saimon\OneDrive\Documentos\C#\cEmpleado\cEmpleado\bin\Debug\cEmpleado.exe.config
+C:\Users\saimon\OneDrive\Documentos\C#\cEmpleado\cEmpleado\bin\Debug\cEmpleado.exe
+C:\Users\saimon\OneDrive\Documentos\C#\cEmpleado\cEmpleado\bin\Debug\cEmpleado.pdb
+C:\Users\saimon\OneDrive\Documentos\C#\cEmpleado\cEmpleado\obj\Debug\cEmpleado.csproj.AssemblyReference.cache
+C:\Users\saimon\OneDrive\Documentos\C#\cEmpleado\cEmpleado\obj\Debug\cEmpleado.csproj.SuggestedBindingRedirects.cache
+C:\Users\saimon\OneDrive\Documentos\C#\cEmpleado\cEmpleado\obj\Debug\cEmpleado.csproj.CoreCompileInputs.cache
+C:\Users\saimon\OneDrive\Documentos\C#\cEmpleado\cEmpleado\obj\Debug\cEmpleado.exe
+C:\Users\saimon\OneDrive\Documentos\C#\cEmpleado\cEmpleado\obj\Debug\cEmpleado.pdb

@@ -1,0 +1,8 @@
+C:\Users\saimon\OneDrive\Documentos\C#\metodos\metodos\obj\Debug\metodos.csproj.AssemblyReference.cache
+C:\Users\saimon\OneDrive\Documentos\C#\metodos\metodos\obj\Debug\metodos.csproj.SuggestedBindingRedirects.cache
+C:\Users\saimon\OneDrive\Documentos\C#\metodos\metodos\obj\Debug\metodos.csproj.CoreCompileInputs.cache
+C:\Users\saimon\OneDrive\Documentos\C#\metodos\metodos\bin\Debug\metodos.exe.config
+C:\Users\saimon\OneDrive\Documentos\C#\metodos\metodos\bin\Debug\metodos.exe
+C:\Users\saimon\OneDrive\Documentos\C#\metodos\metodos\bin\Debug\metodos.pdb
+C:\Users\saimon\OneDrive\Documentos\C#\metodos\metodos\obj\Debug\metodos.exe
+C:\Users\saimon\OneDrive\Documentos\C#\metodos\metodos\obj\Debug\metodos.pdb
